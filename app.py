@@ -2,7 +2,7 @@
 # Code that users interact with
 import database
 
-MENU_PROMPT = """-- Coffee Bean App --
+MENU_PROMPT = """-- Coffee Bean App -- 
 
 Please choose one of these options:
 
@@ -60,3 +60,5 @@ def prompt_find_best_method(connection):
 
 if __name__ == "__main__":
     menu()
+
+# This is a test
