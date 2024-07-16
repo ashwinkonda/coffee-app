@@ -60,6 +60,3 @@ def prompt_find_best_method(connection):
 
 if __name__ == "__main__":
     menu()
-
-# This is a test
-# Another test
