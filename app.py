@@ -2,7 +2,7 @@
 # Code that users interact with the user
 import database
 
-MENU_PROMPT = """-- The Coffee Bean App -- 
+MENU_PROMPT = """-- Coffee Bean App -- 
 
 Please choose one of these options:
 
