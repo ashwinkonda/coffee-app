@@ -29,6 +29,7 @@ def menu():
             prompt_find_best_method(connection)
         else:
             print("Hi, world!!")
+            print("Coffee beans are so cool!")
             print("Invalid input, please try again!")
 
 
