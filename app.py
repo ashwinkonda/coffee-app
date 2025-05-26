@@ -1,5 +1,5 @@
 # This file contains user facing code
-# Code that users interact with
+# Code that users interact with the user
 import database
 
 MENU_PROMPT = """-- The Coffee Bean App -- 
