@@ -28,7 +28,7 @@ def menu():
         elif user_input == "4":
             prompt_find_best_method(connection)
         else:
-            print("Hello, world!")
+            print("Hello, world!!")
             print("Invalid input, please try again!")
 
 
